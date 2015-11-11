@@ -1,0 +1,20 @@
+{
+  "name": "RedWall",
+  "description": "An async scrape attempt on a daily reddit page to grab a link",
+  "dependencies": {
+    "jquery": "1.9.0",
+    "rxjs": "latest"
+  },
+  "license": "MIT",
+  "version": "0.0.0",
+  "authors": [
+    "Ben Davis <bendavisnc@gmail.com>"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
