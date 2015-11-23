@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1e5fcc6-a8e7-45a6-915e-140e7b697d31" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/RedWallV3.coffee" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/RedWallV3.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/redwall.jpg" afterPath="$PROJECT_DIR$/redwall.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RedWall.coffee" afterPath="$PROJECT_DIR$/RedWall.coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RedWall.js" afterPath="$PROJECT_DIR$/RedWall.js" />
     </list>
     <ignored path="RedWall.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,8 +28,8 @@
       <file leaf-file-name="rx.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/node_modules/rx/dist/rx.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.035">
-              <caret line="64" column="19" selection-start-line="64" selection-start-column="19" selection-end-line="64" selection-end-column="19" />
+            <state vertical-scroll-proportion="0.385">
+              <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -397,8 +398,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/rx/dist/rx.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.035">
-          <caret line="64" column="19" selection-start-line="64" selection-start-column="19" selection-end-line="64" selection-end-column="19" />
+        <state vertical-scroll-proportion="0.385">
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
           <folding />
         </state>
       </provider>
