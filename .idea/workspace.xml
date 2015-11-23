@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1e5fcc6-a8e7-45a6-915e-140e7b697d31" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/RedWallV2.coffee" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/RedWallV2.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RedWall.coffee" afterPath="$PROJECT_DIR$/RedWall.coffee" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RedWall.js" afterPath="$PROJECT_DIR$/RedWall.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RedWallV3.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RedWallV3.js" afterPath="" />
     </list>
     <ignored path="RedWall.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,30 +24,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="RedWallV3.coffee" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RedWallV3.coffee">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-18.827587">
-              <caret line="166" column="0" selection-start-line="166" selection-start-column="0" selection-end-line="166" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RedWallV3.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/RedWallV3.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.6170568">
-              <caret line="80" column="26" selection-start-line="80" selection-start-column="26" selection-end-line="80" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="rx.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="rx.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/node_modules/rx/dist/rx.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="0.035">
               <caret line="64" column="19" selection-start-line="64" selection-start-column="19" selection-end-line="64" selection-end-column="19" />
               <folding />
             </state>
@@ -224,12 +200,12 @@
       <recursive>false</recursive>
       <method />
     </configuration>
-    <configuration default="false" name="Unnamed" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="/usr/bin/node" path-to-js-file="RedWallV3.js" working-dir="$PROJECT_DIR$">
+    <configuration default="false" name="Unnamed" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="/usr/bin/node" path-to-js-file="RedWall.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
     <list size="2">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.Unnamed" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.RedWallV2.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.RedWallV2.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.Unnamed" />
     </list>
     <recent_temporary>
       <list size="1">
@@ -348,43 +324,6 @@
           <line>3329</line>
           <option name="timeStamp" value="21" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/RedWallV3.js</url>
-          <line>43</line>
-          <option name="timeStamp" value="73" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/RedWallV3.js</url>
-          <line>86</line>
-          <option name="timeStamp" value="79" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <condition expression="!eachLink.attribs" language="JavaScript" />
-          <url>file://$PROJECT_DIR$/RedWallV3.js</url>
-          <line>105</line>
-          <option name="timeStamp" value="82" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <condition expression="!fromLink.attribs" language="JavaScript" />
-          <url>file://$PROJECT_DIR$/RedWallV3.js</url>
-          <line>175</line>
-          <option name="timeStamp" value="83" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/RedWallV3.coffee</url>
-          <line>171</line>
-          <option name="timeStamp" value="86" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/RedWallV3.js</url>
-          <line>202</line>
-          <option name="timeStamp" value="88" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/RedWallV3.js</url>
-          <line>16</line>
-          <option name="timeStamp" value="89" />
-        </line-breakpoint>
       </breakpoints>
       <option name="time" value="90" />
     </breakpoint-manager>
@@ -448,14 +387,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/rx/dist/rx.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="64" column="19" selection-start-line="64" selection-start-column="19" selection-end-line="64" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bower_components/rxjs/modules/rx-core/rx.core.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -464,18 +395,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/RedWallV3.coffee">
+    <entry file="file://$PROJECT_DIR$/node_modules/rx/dist/rx.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-18.827587">
-          <caret line="166" column="0" selection-start-line="166" selection-start-column="0" selection-end-line="166" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RedWallV3.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.6170568">
-          <caret line="80" column="26" selection-start-line="80" selection-start-column="26" selection-end-line="80" selection-end-column="26" />
+        <state vertical-scroll-proportion="0.035">
+          <caret line="64" column="19" selection-start-line="64" selection-start-column="19" selection-end-line="64" selection-end-column="19" />
           <folding />
         </state>
       </provider>
