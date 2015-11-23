@@ -10,7 +10,7 @@ Array.prototype.contains = (what) ->
 
 Array::randomized = -> @sort -> 0.5 - Math.random()
 
-class RedWallV3
+class RedWall
 
 	helpSpace = null
 	bigDance = null
@@ -218,4 +218,4 @@ class HelpSpace
 			null
 		) # todo: error handling
 
-new RedWallV3(HelpSpace)
+new RedWall(HelpSpace)

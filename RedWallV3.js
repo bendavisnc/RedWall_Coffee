@@ -1,5 +1,5 @@
 (function() {
-  var HelpSpace, Observable, RedWallV3, Rx, cheerio, fs;
+  var HelpSpace, Observable, RedWall, Rx, cheerio, fs;
 
   Rx = require("rx");
 
@@ -19,7 +19,7 @@
     });
   };
 
-  RedWallV3 = (function() {
+  RedWall = (function() {
     var bigDance, dayIndexStream, dayStream, helpSpace, imageContentHeard, imageContentSaved, imageContentStreamTriedSuccessively, imageUrlsStream, jqueryDocStream, logger, redditPageStream, redditPageStreamGivenThreeChances, redditUrlStream;
 
     helpSpace = null;
@@ -28,7 +28,7 @@
 
     logger = null;
 
-    function RedWallV3(whichHelpSpaceToUse) {
+    function RedWall(whichHelpSpaceToUse) {
       var go, test;
       helpSpace = whichHelpSpaceToUse;
       logger = {
@@ -149,7 +149,7 @@
 
     bigDance = imageContentHeard;
 
-    return RedWallV3;
+    return RedWall;
 
   })();
 
@@ -212,6 +212,6 @@
 
   })();
 
-  new RedWallV3(HelpSpace);
+  new RedWall(HelpSpace);
 
 }).call(this);
