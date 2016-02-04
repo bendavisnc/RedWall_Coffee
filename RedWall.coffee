@@ -63,7 +63,6 @@ class RedWall
 				"thursday": "http://www.reddit.com/r/cityporn",
 				"friday": "http://www.reddit.com/r/earthporn",
 				"saturday": "http://www.reddit.com/r/bikeporn",
-				# "sunday": "http://www.reddit.com/r/dirtysmall",
 				"sunday": "http://www.reddit.com/r/bikeporn",
 			}[whichDay]
 
